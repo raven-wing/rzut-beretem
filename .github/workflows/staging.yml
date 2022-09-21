@@ -1,0 +1,15 @@
+name: Staging pipeline
+
+on:
+  push
+
+permissions:
+  contents: 'read'
+  id-token: 'write'
+
+jobs:
+  staging:
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit
+    with:
+      environment: staging

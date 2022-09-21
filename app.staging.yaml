@@ -1,0 +1,7 @@
+runtime: python310
+entrypoint: gunicorn "goodmap.goodmap:create_app('/workspace/config.yml')" -b :$PORT
+
+service: default
+handlers:
+- url: /
+  script: auto
