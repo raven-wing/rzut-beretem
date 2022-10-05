@@ -106,7 +106,7 @@ dev = ["Pallets-Sphinx-Themes", "bumpversion", "ghp-import", "pytest", "pytest-m
 
 [[package]]
 name = "goodmap"
-version = "0.1.5"
+version = "0.1.6"
 description = "Map engine to serve all the people :)"
 category = "main"
 optional = false
@@ -489,7 +489,7 @@ watchdog = ["watchdog"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "58e18a9316593588d5a22518e1d54c4d207e6a7268350386fe22660670039881"
+content-hash = "ba569899e5556592ae809d912a0c3b1ec3292eac93d43945f4d840e04a0c3334"
 
 [metadata.files]
 attrs = [
@@ -529,8 +529,8 @@ Flask-Babel = [
     {file = "Flask_Babel-2.0.0-py3-none-any.whl", hash = "sha256:e6820a052a8d344e178cdd36dd4bb8aea09b4bda3d5f9fa9f008df2c7f2f5468"},
 ]
 goodmap = [
-    {file = "goodmap-0.1.5-py3-none-any.whl", hash = "sha256:1ea6537d40de72f14e8868ca4f340b09031194db181cac479ba6c6bb9d3db8b0"},
-    {file = "goodmap-0.1.5.tar.gz", hash = "sha256:74855ffa2b07947eee19851e2e66bca3b7eca5ea03ee99289b32524a69f7fd47"},
+    {file = "goodmap-0.1.6-py3-none-any.whl", hash = "sha256:565c991a540fcc64d0e9575501bc102a5e89cecadda9c255b424c326c06af231"},
+    {file = "goodmap-0.1.6.tar.gz", hash = "sha256:1dfaf3a64f19c75d2f2e2bd66761649c295b0bd57496ecbe6f142676870a578b"},
 ]
 google-api-core = [
     {file = "google-api-core-2.10.1.tar.gz", hash = "sha256:e16c15a11789bc5a3457afb2818a3540a03f341e6e710d7f9bbf6cde2ef4a7c8"},
