@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "rzut-beretem"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-goodmap = "^0.1.6"
+goodmap = "^0.1.7"
 
 [tool.poetry.dev-dependencies]
 
