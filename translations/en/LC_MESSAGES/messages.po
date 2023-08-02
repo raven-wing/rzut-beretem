@@ -106,3 +106,18 @@ msgstr "opening hours"
 msgid "check_date"
 msgstr "check date"
 
+#: translations/added_words.list
+msgid "transparency"
+msgstr "transparency"
+
+#: translations/added_words.list
+msgid "high"
+msgstr "high"
+
+#: translations/added_words.list
+msgid "low"
+msgstr "low"
+
+#: translations/added_words.list
+msgid "lacking"
+msgstr "lacking"

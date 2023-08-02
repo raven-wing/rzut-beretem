@@ -105,3 +105,19 @@ msgstr "godziny otwarcia"
 #: translations/added_words.list
 msgid "check_date"
 msgstr "data sprawdzenia"
+
+#: translations/added_words.list
+msgid "transparency"
+msgstr "przejrzystość"
+
+#: translations/added_words.list
+msgid "high"
+msgstr "wysoka"
+
+#: translations/added_words.list
+msgid "low"
+msgstr "niska"
+
+#: translations/added_words.list
+msgid "lacking"
+msgstr "brak"

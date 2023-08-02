@@ -106,3 +106,18 @@ msgstr "години роботи"
 msgid "check_date"
 msgstr "дата перевірки"
 
+#: translations/added_words.list
+msgid "transparency"
+msgstr "прозорість"
+
+#: translations/added_words.list
+msgid "high"
+msgstr "висока"
+
+#: translations/added_words.list
+msgid "low"
+msgstr "низька"
+
+#: translations/added_words.list
+msgid "lacking"
+msgstr "брак"
