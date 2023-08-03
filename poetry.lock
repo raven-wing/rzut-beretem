@@ -435,14 +435,14 @@ files = [
 
 [[package]]
 name = "goodmap"
-version = "0.1.10"
+version = "0.1.12"
 description = "Map engine to serve all the people :)"
 category = "main"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "goodmap-0.1.10-py3-none-any.whl", hash = "sha256:4bc414771d198f26efd572d5c22e2a8170e0fe3ee4b64567dd12a2bec460d585"},
-    {file = "goodmap-0.1.10.tar.gz", hash = "sha256:49134d20f8a3621c81d9202aa579fe0ea70db4d55569a974fb243d310c1b10a9"},
+    {file = "goodmap-0.1.12-py3-none-any.whl", hash = "sha256:4212934a00c4c40e4cfa789d129f380c66071b64190103d7b5cea0ff86b7ea53"},
+    {file = "goodmap-0.1.12.tar.gz", hash = "sha256:466419546d3a395188dc40cb8e24f85fca58e2a8c6da8d5d4f88eaf9f40acf51"},
 ]
 
 [package.dependencies]
@@ -1503,4 +1503,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "c075eb77f8183c0055bf7ecb3bcaa3c71a8dbb38b85b362fa84271be55423bd4"
+content-hash = "e6bae871e1bbaf1f46b9d72ec575afdc3edc25786f0f65b981a352219c4d32f2"
